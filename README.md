@@ -1,7 +1,6 @@
 # Admin Panel Template
 
-![Admin Panel Template Preview](https://github.com/sanajitjana/Admin-Panel-Template/assets/76105799/f2017013-fab5-417c-bb9f-e6f9ee98c462)
-
+![Admin Panel Template Preview](https://github.com/sanajitjana/Admin-Panel-Template/assets/76105799/ffd3889f-84e7-4c08-8472-66aec4fa096a)
 
 This repository contains a customizable admin panel template designed for web applications. It's built with HTML, CSS, and JavaScript, providing a responsive and feature-rich dashboard UI.
 
