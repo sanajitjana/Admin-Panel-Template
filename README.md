@@ -17,5 +17,5 @@ This repository contains a customizable admin panel template designed for web ap
 Clone the repository and start customizing according to your project requirements. The template is structured to be easily adapted and extended.
 
 ```bash
-git clone https://github.com/your-username/admin-panel-template.git
-cd admin-panel-template
+git clone https://github.com/sanajitjana/Admin-Panel-Template.git
+cd Admin-Panel-Template
